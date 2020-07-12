@@ -6,6 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards-task_main.iml" group="Flashcards1/Flashcards-task" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Flashcards/task/Flashcards-task_test.iml" group="Flashcards1/Flashcards-task" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Flashcards1.iml" filepath="$PROJECT_DIR$/.idea/modules/Flashcards1.iml" group="Flashcards1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Test learners/Problems-Test_learners.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Test learners/Problems-Test_learners.iml" group="Flashcards1/Problems-Test_learners" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Test learners/Problems-Test_learners_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Test learners/Problems-Test_learners_main.iml" group="Flashcards1/Problems-Test_learners" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Test learners/Problems-Test_learners_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Test learners/Problems-Test_learners_test.iml" group="Flashcards1/Problems-Test_learners" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Flashcards1/util" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Flashcards1/util" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Flashcards1/util" />
